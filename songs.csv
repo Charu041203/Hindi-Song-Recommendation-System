@@ -1,0 +1,101 @@
+id,title,artist,lyrics,mood
+1,Tum Hi Ho,Arijit Singh,"tum hi ho ab tum hi ho zindagi ab tum hi ho",romantic
+2,Raabta,Arijit Singh,"kaise kahein ishq mein hum badle hain raabta raabta",romantic
+3,Channa Mereya,Arijit Singh,"achha chalta hoon duao mein yaad rakhna channa mereya",heartbreak
+4,Agar Tum Saath Ho,Alka Yagnik,"agar tum saath ho royyan bhi ho dil ko sukoon milta hai",sad
+5,Kun Faya Kun,Javed Ali,"kun faya kun jab kuch bhi na ho raha ho khuda madad karta hai",spiritual
+6,Nadaan Parindey,Mohit Chauhan,"nadaan parindey ghar aaja ab to thak gaye honge",motivational
+7,Kesariya,Arijit Singh,"kesariya tera ishq hai piya rang jaaun jo haath lagau",romantic
+8,Apna Bana Le,Arijit Singh,"apna bana le piya aana bhi pade to chori chori",romantic
+9,Mann Bharya,B Praak,"kive chadd ke tu janda ae mann bharya mera",heartbreak
+10,Bekhayali,Sachet Tandon,"bekhayali mein bhi tera hi khayal aaye",heartbreak
+11,Dil Diyan Gallan,Atif Aslam,"dil diyan gallan karange naal naal beh ke",romantic
+12,Shayad,Arijit Singh,"shayad kabhi na kahoon jo maine socha hai tumse hi ho",romantic
+13,Phir Le Aaya Dil,Rekha Bhardwaj,"phir le aaya dil majboor kya keeje",sad
+14,Zinda,Siddharth Mahadevan,"zinda ho tum chhupa kar rakhe ho jo zinda ho tum",motivational
+15,Ilahi,Arijit Singh,"ilahi mera jee aaye aaye jee le zara",travel
+16,Ghungroo,Arijit Singh,"ghungroo toot gaye lekin phir bhi naacha",party
+17,Kar Har Maidaan Fateh,Sukhwinder Singh,"kar har maidaan fateh tu lad ja",motivational
+18,Kalank,Arijit Singh,"kalank nahi ishq hai kajal bani raat",tragic_romance
+19,Tera Ban Jaunga,Akhil Sachdeva,"tera ban jaunga jo tu na jaana",romantic
+20,Duniyaa,Akhil,"nahi lagda jee mera duniyaa ton tere bina",love
+21,Humdard,Arijit Singh,"chahe jo tumhe poore dil se milta hai woh mushkil se",romantic
+22,Muskurane,Arijit Singh,"muskurane ki wajah tum ho",romantic
+23,Janam Janam,Arijit Singh,"janam janam saath chalna yunhi",romantic
+24,Gerua,Arijit Singh,"rang de tu mohe gerua",romantic
+25,Hawayein,Arijit Singh,"hawayein banke tum udti kahan ho",romantic
+26,Sun Saathiya,Priya Saraiya,"sun saathiya mahiya barsa de ishq di khushboo",romantic
+27,Tujhe Kitna Chahne Lage,Arijit Singh,"tujhe kitna chahne lage hum",heartbreak
+28,Pachtaoge,Arijit Singh,"ishq mein hum tumhe kya bataye pachtaoge",heartbreak
+29,Kaun Tujhe,Palak Muchhal,"kaun tujhe yun pyar karega",romantic
+30,Jeene Laga Hoon,Atif Aslam,"jeene laga hoon pehle se zyada",romantic
+31,Tum Se Hi,Atif Aslam,"tum se hi din hota hai tum se hi shaam",love
+32,Saibo,Shreya Ghoshal,"saibo saibo dil chura ke le gayo",romantic
+33,Samjhawan,Arijit Singh,"main tenu samjhawan ki na tere bina lagda jee",romantic
+34,Tu Hi Hai,Atharv,"tu hi hai bas tu hi hai meri har khushi",love
+35,Khairiyat,Arijit Singh,"khairiyat pucho kabhi to kaifiyat pucho",heartbreak
+36,Chaand Sifarish,Shaan,"chaand sifarish jo karta hamari",romantic
+37,Subhanallah,Sreeram,"subhanallah jo ho raha hai pehli dafa hai",romantic
+38,Galliyan,Ankit Tiwari,"teri galliyan galliyan teri galliyan",romantic
+39,Sunn Raha Hai,Ankit Tiwari,"sunn raha hai na tu ro raha hoon main",sad
+40,Darkhaast,Arijit Singh,"darkhaast hai ye meri tu paas aa ja",romantic
+41,Jab Tak,Armaan Malik,"jab tak jahan mein subah shaam hai",love
+42,Bol Do Na Zara,Armaan Malik,"bol do na zara dil mein jo hai chhupa",romantic
+43,Khamoshiyan,Arijit Singh,"khamoshiyan aawaaz hai tum sunne to aao kabhi",romantic
+44,Ae Dil Hai Mushkil,Arijit Singh,"dil pe zor na chala yeh ishq hai aib ka",heartbreak
+45,Ranjha,B Praak,"ranjha ranjha mere dil ka ranjha",heartbreak
+46,Ve Maahi,Arijit Singh,"ve maahi ve maahi tere bin jeena nahi",romantic
+47,Soch Na Sake,Arijit Singh,"soch na sake tum hi ho mere",love
+48,Jogi,Yasser Desai,"jogi jogi yaara tere ishq mein",romantic
+49,Hambardaast,Arijit Singh,"tu hambardaast mera tu humsafar",romantic
+50,Jaan Nisaar,Arijit Singh,"jaan nisaar hoon main teri har khushi ke liye",romantic
+51,Dil Ko Tumse Pyaar Hua,Kumar Sanu,"dil ko tumse pyaar hua pehli baar hua",romantic
+52,Tera Hone Laga Hoon,Atif Aslam,"tera hone laga hoon jab se mila hoon",romantic
+53,Tum Mile,Neeraj Shridhar,"tum mile toh jeena aa gaya",romantic
+54,Dil Ibaadat,K.K.,"dil ibaadat kar raha hai",romantic
+55,Zara Sa,K.K.,"zara sa dil mein de jagah tu",romantic
+56,Aawarapan Banjarapan,K.K.,"aawarapan banjarapan ek khwaab ho tum",sad
+57,Tadap Tadap,K.K.,"tadap tadap ke is dil se aah nikalti rahi",heartbreak
+58,Yaaron,K.K.,"yaaron dosti badi hi haseen hai",friendship
+59,Pyaar Ke Pal,K.K.,"pyaar ke pal yaaron ke saath",nostalgic
+60,Aankhon Mein Teri,Atif Aslam,"aankhon mein teri ajab si ajab si adaayein",romantic
+61,Woh Lamhe,Atif Aslam,"woh lamhe woh baatein",romantic
+62,Pee Loon,Mohit Chauhan,"pee loon tere neele neele naino se shabnam",romantic
+63,Tum Ho,Mohit Chauhan,"tum ho paas mere saath mere ho tum yoon",romantic
+64,Sajde,Arijit Singh,"sajde kiye hain lakhon",romantic
+65,Raazi Title Track,Arijit Singh,"ae watan mere watan",patriotic
+66,Teri Mitti,B Praak,"teri mitti mein mil jawaan",patriotic
+67,Rang De Basanti,Daler Mehndi,"rang de basanti chola",patriotic
+68,Maa,Shankar Mahadevan,"maa meri maa pyari maa",emotional
+69,Aashiqaana Title Track,Stebin Ben,"aashiqana main hoon tera",romantic
+70,Dheere Dheere,Yo Yo Honey Singh,"dheere dheere se meri zindagi mein aana",romantic
+71,Blue Eyes,Honey Singh,"blue eyes hypnotize teri kardi hai mennu",party
+72,High Heels,Jaz Dhami,"high heels te nache",party
+73,Naagin,Badshah,"naagin naagin tu naagin",party
+74,Genda Phool,Badshah,"koila sa rang tera genda phool",party
+75,Proper Patola,Diljit Dosanjh,"proper patola",party
+76,Lover,Diljit Dosanjh,"main lover pehchan ja",romantic
+77,Kina Chir,The PropheC,"kina chir tenu takda rahaan",romantic
+78,Moonrise,Diljit Dosanjh,"moonrise tere naal ve",romantic
+79,Excuses,AP Dhillon,"oh baby excuses",heartbreak
+80,Brown Munde,AP Dhillon,"brown munde",swag
+81,Desires,AP Dhillon,"tere vaste falak se",romantic
+82,Insane,AP Dhillon,"insane teri meri yaari insane",party
+83,Daku,Inderpal Moga,"main daku tu sharmaave",swag
+84,Bijlee Bijlee,Hardy Sandhu,"bijlee bijlee bijlee bijlee",party
+85,Titliaan,Harrdy Sandhu,"titliaan wargaa",heartbreak
+86,Backbone,Harrdy Sandhu,"tu hi meri backbone",romantic
+87,Naah,Harrdy Sandhu,"naah naah naah",party
+88,Kya Baat Ay,Harrdy Sandhu,"kya baat ay",romantic
+89,Mann Meri Jaan,King,"mann meri jaan",romantic
+90,OOPS,King,"ooh teri body oops",party
+91,Tum Saath Rehna,Arijit Singh,"tum saath rehna mere paas rehna",romantic
+92,Mere Bina,Atif Aslam,"mere bina maahi mere bina",sad
+93,Humnava,Mithoon,"humnava mere",heartbreak
+94,Sanam Re,Arijit Singh,"sanam re sanam re",romantic
+95,Kya Mujhe Pyaar Hai,K.K.,"kya mujhe pyaar hai",romantic
+96,O Re Piya,Rahat Fateh Ali Khan,"o re piya haye",romantic
+97,Jiya Dhadak Dhadak,Rahat Fateh Ali Khan,"jiya dhadak dhadak jaye",romantic
+98,Mast Magan,Arijit Singh,"mast magan mast magan",romantic
+99,Saiyaan, Kailash Kher,"saiyaan saiyaan re",devotional
+100,Allah Ke Bande,Kailash Kher,"allah ke bande hans de",motivational
