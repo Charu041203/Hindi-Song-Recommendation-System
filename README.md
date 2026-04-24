@@ -37,7 +37,7 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/Charu041203/hindi-song-recommendation.git
+bashgit clone https://github.com/Charu041203/Hindi-song-recommendation.git
 cd hindi-song-recommendation
 
 Create a virtual environment (recommended)
