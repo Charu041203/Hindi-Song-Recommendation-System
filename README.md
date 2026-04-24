@@ -1,72 +1,67 @@
 🎵 Hindi Song Recommendation System
-📌 Project Overview
+A Python-based music recommendation system that suggests Hindi songs based on a song name, mood, or lyric using multilingual sentence embeddings and cosine similarity.
 
-This project is a Hindi Song Recommendation System that suggests songs based on user input such as:
+✨ Features
 
-Song name
-Mood
-Lyrics
+🎶 Recommends Hindi songs by song name, mood, or lyric snippet
+🌐 Multilingual support — understands both Hindi and English input
+🧠 Powered by paraphrase-multilingual-MiniLM-L12-v2 sentence embeddings
+⚡ Fast similarity search using cosine similarity
+📁 Works with a simple CSV dataset
 
-It uses Natural Language Processing (NLP) and Sentence Transformers to find semantically similar songs and recommend the most relevant ones.
 
-🚀 Features
-🔍 Search songs using text input (name, mood, or lyrics)
-🤖 Uses SentenceTransformer (MiniLM model) for semantic understanding
-📊 Computes similarity using cosine similarity
-🎯 Returns Top-N relevant song recommendations
-🌐 Supports multilingual inputs (Hindi + English)
-🛠️ Technologies Used
-Python 🐍
-Pandas 📊
-Sentence Transformers 🤖
-Scikit-learn 📉
-📂 Project Structure
-📁 Hindi-Song-Recommender
-│── hindisongs.py        # Main recommendation script
-│── songs.csv            # Dataset (songs info)
-│── README.md            # Project documentation
-📊 Dataset
+🛠 Tech Stack
+Layer       Technology 
+Language    Python 3.x
+Data        Pandas
+Embeddings  Sentence Transformers (paraphrase-multilingual-MiniLM-L12-v2)
+Similarity  Scikit-learn (Cosine Similarity)
 
-The dataset (songs.csv) should contain the following columns:
+⚙️ How It Works
 
-Column	Description
-title	Song name
-artist	Singer/Artist
-mood	Mood of the song
-⚙️ Installation & Setup
-1️⃣ Clone the repository
-git clone https://github.com/your-username/hindi-song-recommender.git
-cd hindi-song-recommender
-2️⃣ Install dependencies
-pip install pandas scikit-learn sentence-transformers
-3️⃣ Run the project
-python hindisongs.py
-💡 How It Works
+Loads a CSV dataset containing song title, artist, and mood
+Combines these fields into a single text representation per song
+Encodes all songs into vector embeddings using a multilingual transformer model
+Takes user input (song name / mood / lyric)
+Encodes the query and computes cosine similarity against all song embeddings
+Returns the top-N most similar songs
 
-Combines song features:
 
-title + artist + mood
-Converts text into vector embeddings using transformer model
-Takes user input and converts it into embedding
-Computes cosine similarity between input and songs
-Returns Top matching songs
-🧠 Model Used
-sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
-Lightweight and fast
-Supports multiple languages
-Good for semantic similarity tasks
-📌 Example Usage
+🚀 Getting Started
+Prerequisites
+
+Python 3.8 or higher
+pip
+
+Installation
+
+Clone the repository
+
+bashgit clone https://github.com/Charu041203/hindi-song-recommendation.git
+cd hindi-song-recommendation
+
+Create a virtual environment (recommended)
+
+bashpython -m venv venv
+source venv/bin/activate        # On Windows: venv\Scripts\activate
+
+Install dependencies
+
+bashpip install pandas scikit-learn sentence-transformers
+
+Add your dataset — Place a songs.csv file in the project root with these columns:
+
+ColumnDescriptiontitleSong titleartistSinger / Band namemoodMood tag (e.g. Romantic, Sad, Party)
+Usage
+bashpython hindisongs.py
 === Hindi Song Recommendation System ===
 
-Enter a song name / mood / lyric: romantic sad love
+Enter a song name / mood / lyric: Tum Hi Ho
 
 Finding recommendations...
 
-Tum Hi Ho — Arijit Singh (Mood: Sad)
-Raabta — Arijit Singh (Mood: Romantic)
-...
-🔮 Future Improvements
-🎧 Add Spotify/YouTube API integration
-🌟 Build a web app using React + Flask
-❤️ Add user personalization
-📱 Deploy as mobile app
+Tum Hi Ho — Arijit Singh  (Mood: Romantic)
+Tera Ban Jaunga — Akhil Sachdeva  (Mood: Romantic)
+Channa Mereya — Arijit Singh  (Mood: Sad)
+Phir Bhi Tumko Chahungo — Arjit Singh  (Mood: Romantic)
+Ae Dil Hai Mushkil — Arijit Singh  (Mood: Sad)
